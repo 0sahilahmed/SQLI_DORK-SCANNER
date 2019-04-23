@@ -20,7 +20,7 @@ print("""
  #				User It Responsibly				    #
  #				Made By Antoine Zayat				    #
  #                              Github: hacker900123				    #
- #    		I Hold No Responsibility For Any Comprimisation Done By My Tool	    #
+ #    		I Hold No Responsibility For Any Server Comprimization Done	    #
  =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 """)
 
