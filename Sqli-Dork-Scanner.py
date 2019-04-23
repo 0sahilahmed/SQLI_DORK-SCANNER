@@ -4,6 +4,7 @@ try:
 	import requests
 	from googlesearch import search
 	import time
+	import sys
 	import os
 except ImportError as ie:
 	print(ie)
