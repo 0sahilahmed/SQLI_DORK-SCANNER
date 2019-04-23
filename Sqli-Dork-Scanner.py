@@ -52,7 +52,7 @@ try:
 			time.sleep(1)
 			b = urllib.request.urlopen(i + "'")
 			body = b.read()
-			webbody = body.decode("utf-8")
+			webbody = body.decode("ISO-8859-1")
 			if("You have an error in your SQL syntax") in webbody:
 				print("[+] " +i + " Is Vulnerable To Sql Injection Vulnerability")
 				print("+"*40)
