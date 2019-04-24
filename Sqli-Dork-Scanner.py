@@ -42,7 +42,6 @@ try:
 			time.sleep(1)
 			error_Based = bane.sqlieb(i)
 			time_Based = bane.sqlitb(i)
-			boolean_Based = bane.sqlibb(i)
 			print("+-"*40)
 except Exception as e:
 	print("The Script has encountered an error")
