@@ -1,3 +1,3 @@
 # SQLI_DORK-SCANNER
 
-A Tool Written In Python2 To Search Google Using A Specific SQLI Dork To Find SQLI Vulnerable Websites With A Scanner Included!
+A tool written In Python2 to Search Google using A specific SQLI Dork to find SQLI vulnerable websites with a scanner included!
